@@ -33,7 +33,7 @@ To run the React Todo App locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/your-username/todo-app.git](https://github.com/nerajthapa/todolist-app.git)
+   git clone https://github.com/nerajthapa/todolist-app.git
 2. **Navigate to the Project Directory:**
     ```bash
     cd todo-app
